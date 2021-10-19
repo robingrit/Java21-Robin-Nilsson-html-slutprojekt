@@ -181,10 +181,13 @@ img {
 
   border-radius: 20%;
 }
-
+article {
+  padding-top: 0.5rem;
+}
 h1 {
   text-align: center;
   font-size: 3rem;
+  padding-bottom: 3rem;
 }
 .desktopstyle {
   text-align: center;
